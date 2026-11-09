@@ -7,9 +7,9 @@ Final-year dev student at UC Leuven-Limburg 🇧🇪. This is where I share what
 - **Apps**
   - [pomodoro-app](https://github.com/achoannie/pomodoro-app) - Pomodoro timer with pixel-art animal animations
 - **Tools**
-  - [pixel_up](https://github.com/achoannie/pixel_up) - Pixel-art GIF upscaler written in Rust
+  - [pixel_up](https://github.com/achoannie/pixel-up) - Pixel-art GIF upscaler written in Rust
 - **Web**
-  - [portfolio](https://github.com/achoannie/portfolio) - My personal portfolio site
+  - [portfolio](https://github.com/achoannie/chamoannie.dev) - My personal portfolio site
 <!--
 - **School / Team**
   - ...

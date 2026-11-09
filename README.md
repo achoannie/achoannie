@@ -17,8 +17,11 @@ Final-year dev student at UC Leuven-Limburg 🇧🇪. This is where I share what
 🌐 [my portfolio domain](https://chamoannie.dev) · 🎨 art and programming enthusiast
 
 (˶ˆ ᵕ ˆ˵)つ☕ Support:
-[Ko-fi.com/chamoannie]
-[buymeacoffee.com/chamoannie]
+
+
+(Ko-fi.com/chamoannie)(https://ko-fi.com/chamoannie)
+
+(buymeacoffee.com/chamoannie)[https://buymeacoffee.com/chamoannie]
 <!--
 Here are some ideas to get you started:
 

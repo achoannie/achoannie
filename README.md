@@ -1,5 +1,5 @@
 <p align='center'> 
-  <img src="assets/bannergif.gif" width="100%" alt="banner">
+  <img src="assets/bannergif.gif" width="60%" alt="banner">
 </p>
 
 ## Hi there ＼(´人´)／！

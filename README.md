@@ -1,3 +1,7 @@
+<p align='center'> 
+  <img src="assets/bannergif.gif" width="100%" alt="banner">
+</p>
+
 ## Hi there ＼(´人´)／！
 
 Art and Programming enthusiast!
@@ -16,15 +20,19 @@ Final-year dev student at UC Leuven-Limburg 🇧🇪. This is where I share what
   - [pixel_up](https://github.com/achoannie/pixel-up) - Pixel-art GIF upscaler written in Rust
 - **Web**
   - [portfolio](https://github.com/achoannie/chamoannie.dev) - My personal portfolio site
-<p align='center'> 
-  <img src="assets/bannergif.gif" width="100%" alt="banner">
-</p>
+
 
 <!-- 
 <p align="center">
   <img src="https://media.tenor.com/wYWU7LaRoRUAAAAi/cat-cat-bounce.gif" width="100" />
 </p> -->
 
+
+<p align="center">
+  <img src="https://media.tenor.com/wYWU7LaRoRUAAAAi/cat-cat-bounce.gif" width="100" />
+  <img src="https://media.tenor.com/wYWU7LaRoRUAAAAi/cat-cat-bounce.gif" width="100" />
+  <img src="https://media.tenor.com/wYWU7LaRoRUAAAAi/cat-cat-bounce.gif" width="100" />
+</p>
 
 <p align="center">
   my portfolio:<br/>
@@ -35,10 +43,4 @@ Final-year dev student at UC Leuven-Limburg 🇧🇪. This is where I share what
 <p align="center">
   Support (˶ˆ ᵕ ˆ˵)つ☕<br/>
   <a href="https://ko-fi.com/chamoannie">Ko-fi</a> ・ <a href="https://buymeacoffee.com/chamoannie">Buy Me a Coffee</a>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/wYWU7LaRoRUAAAAi/cat-cat-bounce.gif" width="100" />
-  <img src="https://media.tenor.com/wYWU7LaRoRUAAAAi/cat-cat-bounce.gif" width="100" />
-  <img src="https://media.tenor.com/wYWU7LaRoRUAAAAi/cat-cat-bounce.gif" width="100" />
 </p>

@@ -1,6 +1,7 @@
 ## Hi there ＼(´人´)／！
 
-Final-year dev student at UC Leuven-Limburg 🇧🇪. This is where I share what I build and draw.
+Final-year dev student at UC Leuven-Limburg 🇧🇪. This is where I share what I build, draw, and break.
+
 ⚡ My projects
 
 - **Apps**

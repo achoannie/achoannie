@@ -21,7 +21,7 @@ Final-year dev student at UC Leuven-Limburg 🇧🇪. This is where I share what
 
 [Ko-fi.com/chamoannie](https://ko-fi.com/chamoannie)
 
-[buymeacoffee.com/chamoannie][https://buymeacoffee.com/chamoannie]
+[buymeacoffee.com/chamoannie](https://buymeacoffee.com/chamoannie)
 <!--
 Here are some ideas to get you started:
 

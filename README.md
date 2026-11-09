@@ -14,7 +14,8 @@ Final-year dev student at UC Leuven-Limburg 🇧🇪. This is where I share what
 - **School / Team**
   - ...
 -->
-🌐 [my portfolio](https://chamoannie.dev) · 🎨 pixel art enthusiast
+🌐 [my portfolio domain](https://chamoannie.dev) · 🎨 art and programming enthusiast
+
 (˶ˆ ᵕ ˆ˵)つ☕ Support:
 [Ko-fi.com/chamoannie]
 [buymeacoffee.com/chamoannie]

@@ -15,7 +15,7 @@ Final-year dev student at UC Leuven-Limburg 🇧🇪. This is where I share what
 ### ♪｡⋆ My projects ⋆｡♪
 
 - **Apps**
-  - [pomodoro-app](https://github.com/achoannie/ratito-pomodoro-app) - Pomodoro timer with pixel-art animal animations
+  - [ratito-pomodoro-app](https://github.com/achoannie/ratito-pomodoro-app) - Pomodoro timer with pixel-art animal animations
 - **Tools**
   - [pixel_up](https://github.com/achoannie/pixel-up) - Pixel-art GIF upscaler written in Rust
 - **Web**

@@ -8,18 +8,16 @@
 
 Annie is a little raccoon who digs through the internet for shiny things, and *sometimes* does git pushes.
 
-```
-              ╭───────────────────────────────╮
-              │ I make the useful parts cute. │
-              ╰────╮ ╭────────────────────────╯
-                   │╱  
-                    
-     ^୨୧      ^ 
-꒰✧♡ ฅ(=•̥ ㅅ •̥=)ฅ ☆彡꒱
-```
 
-Come type `hello` into the shell at [chamoannie.dev](https://chamoannie.dev)!
 
+```
+                            ╭───────────────────────────────╮
+                            │ I make the useful parts cute. │
+                            ╰────╮ ╭────────────────────────╯
+                                 │╱  
+```
+<div align="center"> 
+<img src="assets/Wasabar.gif" /> </div>
 
 
 | | |
@@ -28,6 +26,10 @@ Come type `hello` into the shell at [chamoannie.dev](https://chamoannie.dev)!
 | class | full-stack dev · artist |
 | den | Leuven, Belgium 🇧🇪 |
 | status | looking for a traineeship, Feb – May 2027 |
+
+
+You can visit and type `hello` into the shell at [chamoannie.dev](https://chamoannie.dev)!
+
 
 ### ⋆˙⟡ Inventory ⟡˙⋆
 

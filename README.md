@@ -38,7 +38,7 @@ You can visit and type `hello` into the shell at [chamoannie.dev](https://chamoa
 - **Backend & data:** Spring Boot · PostgreSQL · Cosmos DB
 - **Cloud & DevOps:** Azure · Docker · Kubernetes · GitHub Actions
 - **Graphics:** Unity · HLSL shaders · mesh generation
-- **Art:** Clip Studio Paint (pixel art is the most comfortable)
+- **Art:** Clip Studio Paint (digital art), Aseprite (pixel sprite and animation focused)
 
 ### Roles
 - **Scrum Master**: kept the sprints rolling on a team web-app
